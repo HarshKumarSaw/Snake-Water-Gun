@@ -84,4 +84,4 @@ Contributions are welcome! Feel free to fork the repository, make improvements, 
 
 ## License
 
-This project is licensed under the [GNU GENERAL PUBLIC (GPL-3.0 license)](LICENCE)
+This project is licensed under the [GNU GENERAL PUBLIC (GPL-3.0 license)](LICENSE)
