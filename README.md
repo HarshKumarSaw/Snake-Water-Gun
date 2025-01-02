@@ -28,6 +28,10 @@ git clone https://github.com/HarshKumarSaw/Snake-Water-Gun.git
    Ensure Python is installed on your system. Run the game using the following command:
 
 ```bash
+cd Snake-Water-Gun
+```
+
+```bash
 python snake_water_gun.py
 ```
 
