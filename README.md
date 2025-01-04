@@ -86,6 +86,8 @@ Modules: random
 
 Contributions are welcome! Feel free to fork the repository, make improvements, and submit a pull request.
 
+For more detailed guidelines on contributing, check out our Contribution Guide in the [Wiki](https://github.com/HarshKumarSaw/Snake-Water-Gun/wiki).
+
 ## License
 
 This project is licensed under the [GNU GENERAL PUBLIC (GPL-3.0 license)](LICENSE)
