@@ -32,11 +32,11 @@ We take security issues seriously. If you discover a vulnerability in the Snake 
 
 
 
-### Response Time:
+### Response Time
 I aim to acknowledge your report within 48 hours and provide a resolution within 7 days, depending on the severity and complexity of the issue.
 
 
-### Responsible Disclosure:
+### Responsible Disclosure
 Please do not publicly disclose the vulnerability until I have resolved it.
 
 ---
