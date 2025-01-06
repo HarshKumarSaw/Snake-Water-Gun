@@ -19,10 +19,10 @@ We take security issues seriously. If you discover a vulnerability in the Snake 
 
 ### How to Report
 
-1. Contact Me: Email me at [harshsaw01@gmail.com](harshsaw01@gmail.com) with a detailed description of the vulnerability.
+1. **Contact Me:** Email me at [harshsaw01@gmail.com](harshsaw01@gmail.com) with a detailed description of the vulnerability.
 
 
-2. Details to Include:
+2. **Details to Include:**
 
 - Affected files or components.
 
@@ -32,11 +32,11 @@ We take security issues seriously. If you discover a vulnerability in the Snake 
 
 
 
-3. Response Time:
+### Response Time:
 I aim to acknowledge your report within 48 hours and provide a resolution within 7 days, depending on the severity and complexity of the issue.
 
 
-4. Responsible Disclosure:
+### Responsible Disclosure:
 Please do not publicly disclose the vulnerability until I have resolved it.
 
 ---
