@@ -4,6 +4,8 @@ A fun Python-based game similar to Rock-Paper-Scissors, but with a twist! Test y
 
 ## How to Play  
 
+![Snake Water Gun Game Rules](Icon.gif)
+
 - **Snake 🐍 beats Water 💦**  
 - **Water 💦 beats Gun 🔫**  
 - **Gun 🔫 beats Snake 🐍**
